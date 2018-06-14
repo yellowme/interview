@@ -18,11 +18,11 @@ project we would like you to build.
 
 We currently offer the following projects:
 
-- [HTML/CSS/JS](front_end)
+- [Front-end](front_end)
 - [iOS](ios)
 - [Android](android)
 - [Rails](rails)
-- [Web Services](web_services)
+- [Back-end](back_end)
 
 ### 2. Create a New Repository
 
