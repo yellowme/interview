@@ -31,3 +31,4 @@ up to you as well.
 - [ ] Extend your front end to allow a text file full of urls to be 
       submitted to the bulk API. Results can be rendered directly on the page
       or downloaded as a text file.
+- [ ] Add a view for list all the urls and his short version
