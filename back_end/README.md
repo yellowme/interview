@@ -10,9 +10,12 @@ team, they supercede the following.
 
 - [ ] Create a webservice using Java, Ruby, or Node.js that has a single 
       endpoint.
-- [ ] The endpoint should receive as a parameter a string and return that 
-      string reversed. For example, if the endpoint is given the string 
-      "yellowme" it should return "emwolley".
+- [ ] The endpoint should receive as a parameter a url and return that 
+      url shorter. For example, if the endpoint is given the url 
+      "https://facebook.com" it should return "https://hostname/Ux26Yp".
+- [ ] When someone access to the url "https://hostname/Ux26Yp" the server should redirect to the real url that is "https://facebook.com".
+- [ ] Add another endpoint to your service that allows for the bulk (hundreds) 
+      submission of urls.
 - [ ] Your submission should contain a README file that spells out the exact 
       steps necessary to build and run the project. It should also provide 
       instructions for how to query the webservice.
@@ -23,10 +26,9 @@ up to you as well.
 
 ## Bonus
 
-- [ ] Add another endpoint to your service that allows for the bulk (hundreds) 
-      submission of strings.
-- [ ] Build a frontend for the service in front-end framework that allows users to submit
-      strings to reverse in a form and see the results.
-- [ ] Extend your front end to allow a text file full of reversible words to be 
+- [ ] Build a frontend for the service in front-end framework that allows users to submit an
+      url to short it in a form and see the result.
+- [ ] Extend your front end to allow a text file full of urls to be 
       submitted to the bulk API. Results can be rendered directly on the page
       or downloaded as a text file.
+- [ ] Add a view for list all the urls and his short version
