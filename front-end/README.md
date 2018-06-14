@@ -26,7 +26,7 @@ team, they supercede the following.
 ## Bonus points
 
 - [ ] This is your Pokedex. Add more details to the white spaces in the detail view.
-- [ ] Use an architecure to divide and encapsulate components of a feature (e.g. MVC, MVP, MVVM)
+- [ ] Use an architecure to divide and encapsulate components of a feature
 - [ ] Make the site responive 🙌 (You can take some ideas form the "design/mobile" folder)
 - [ ] Support other major browsers 🦄 (Firefox, Safari, Opera, Edge)
 - [ ] Add a router to your application. Update the site URL when a pokemon detail panel is shown (without reloading the site). Users should be able to enter this URL and see the pokemon details without having to click it's name.
