@@ -4,7 +4,7 @@ A common feature for most of the mobile applications is a Login. This feature no
 
 We are Pokemon fans! So the main view must be a list of pokemons taken from the [Pokeapi](https://pokeapi.co/).
 
-Your goal is to create an application that handles the logic to allow the user login and see the main view any time he launches the app.
+Your goal is to create an application that handles the logic to allow the user login and see the main view any time they launch the app.
 
 If any special requirements have been conveyed to you from your interview team, they supercede the following:
 
@@ -20,7 +20,7 @@ If any special requirements have been conveyed to you from your interview team, 
 - [ ] The user should be able to log out.
 - [ ] The user should be able to view a list of pokemons (this is the main view).
 - [ ] The user session should be stored locally.
-- [ ] The user should be able to see the main view if he had already logged in.
+- [ ] The user should be able to see the main view if they had already logged in.
 - [ ] The list of pokemons should be stored locally (you don't need to store all of the pokemons returned by the API, just some of them).
 
 ## Bonus points
