@@ -21,7 +21,6 @@ We currently offer the following projects:
 - [Front-end](front_end)
 - [iOS](ios)
 - [Android](android)
-- [Rails](rails)
 - [Back-end](back_end)
 
 ### 2. Create a New Repository
