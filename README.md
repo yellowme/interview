@@ -1,7 +1,7 @@
 # Interview
 
 
-Interested in joining to the Yellowme team? We believe that a great way for you to show us who you are is with your code. Completing a project has many benefits:
+Interested in joining the Yellowme team? We believe that a great way for you to show us who you are is with your code. Completing a project has many benefits:
 
 * **You have code to share.** Maybe your current employer doesn't allow you to show us what you've been working on, or maybe you just finished school or a developer bootcamp and haven't established a portfolio. Now you have code to show us.
 
@@ -41,7 +41,7 @@ just as much as you!
 
 ## Need Help?
 
-If you are having difficulty getting started, confused about the project, or
+If you are having difficulties getting started, confused about the project, or
 stuck trying to solve a problem, you can either [open an issue][open-issue] or
 reach out to us on [hola@yellowme.mx]()
 
