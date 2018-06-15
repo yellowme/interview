@@ -34,4 +34,5 @@ team, they supercede the following.
 ## Hint
 
 - [Pokemon API Docs](https://pokeapi.co/docsv2/#)
+- The Pokeapi has a limit usage per hour. Consider mocking the requests.
 - Review the `offset` and `limit` parameters for the GET request.
