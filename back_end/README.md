@@ -32,27 +32,26 @@ Article attributes:
 - title
 - body
 - published date
-- created_at
-- state
+- state (drafted or published)
 
 ### Writer
 
 Writer attributes: 
 
-- first name
-- last name
+- email 
+- password
 
 ## User Stories 
 
-- [ ] As a writer I should be able to create an article
-- [ ] As a writer I should be able to change an article status from drafted to published or viceversa.
-- [ ] As a writer I should be able to edit any of my articles
-- [ ] As a writer I should be able to list all my articles (published and drafted state)
-- [ ] As a writer I should be able to see a list of only my drafted articles or only my published articles
-- [ ] As a writer I should be able to see one article
-- [ ] As a writer I should be able to do everything a visitor can do in the API
-- [ ] As a visitor I should be able to list all the published articles order by published date in descending order
-- [ ] As a visitor I should be able to see a published article 
+1. [ ] As a writer I should be able to create an article
+2. [ ] As a writer I should be able to change an article status from drafted to published or viceversa.
+3. [ ] As a writer I should be able to edit any article
+4. [ ] As a writer I should be able to list all articles (published and drafted state)
+5. [ ] As a writer I should be able to see a list of all drafted articles or all published articles
+6. [ ] As a writer I should be able to see one article
+7. [ ] As a writer I should be able to do everything a visitor can do in the API
+8. [ ] As a visitor I should be able to list all the published articles order by published date in descending order
+9. [ ] As a visitor I should be able to see a published article 
 
 ## Requirements
 
@@ -68,7 +67,11 @@ Writer attributes:
 
 Take 1 or 2, we don't expect for you to do everyone of them. 
 
-- [ ] Update the list of user stories, and the API documentation if we add a new actor called Admin that is the only one with the permission to publish articles but only when an article is "ready to review". Think about how that new actor will change your current implementation and what changes you will need to do.
+- [ ] Make the changes on your APP, so it complies with these new user stories. Note that these stories have conflicts with the previous stories 2,3,4 and 5.
+  1. [ ] As a writer I should be able to edit only my articles
+  2. [ ] As a writer I should be able to only change my articles status from drafted to published or viceversa.
+  2. [ ] As a writer I should be able to list see only my articles (published and drafted state) 
+  3. [ ] As a writer I should be able to see a list of my drafted articles, or my published articles.
 - [ ] Deploy the API in a Platform as a Service (Heroku, Blue Ocean, AWS, GCloud, etc)
 - [ ] Dockerize the development environment so the database, programming language version, etc lives in a container. The idea is that when a new developer starts on the project she will not have to configure the development environment by hand. 
 - [ ] Write down every tool or methodology that you know for improving backend developer happiness explaining why you think they are necessary. 
